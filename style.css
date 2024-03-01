@@ -29,7 +29,7 @@ body{
     width: 100%;
     font-size: 35px;
 }
-.titulo-principal{
+.titulo-principal span{
     color: var(--verde-dias);
 }
 .botao{
