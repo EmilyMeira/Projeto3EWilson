@@ -10,3 +10,6 @@
 --branco:rgba(255, 255, 255, 1);
 --verde-dias:rgba(111, 255, 87, 1);
 }
+body{
+    background-color: var(--cor-de-fundo);
+}
