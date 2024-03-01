@@ -40,5 +40,6 @@ body{
     justify-content: center;
     width: 100%;
     border-bottom: 4px solid var(--cor-de-icone1);
-    border-left: 2px;
+    border-left: 2px solid var(--cor-de-icone1);
+    border-top: none;
 }
