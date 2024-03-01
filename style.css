@@ -29,3 +29,11 @@ body{
     width: 100%;
     font-size: 35px;
 }
+.titulo-principal{
+    color: var(--verde-dias);
+}
+.botao{
+    font-family: "Dancing Script",sans-serif;
+    background-color: var(--cor-de-icone1);
+    color: var(--cor-de-icone1);
+}
