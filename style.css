@@ -15,4 +15,7 @@ body{
     color: var(--cor-de-icone1);
     font-family: 'Dancing Script', sans-serif;
 }
-.conteudo-principal
+.conteudo-principal{
+    display: flex;
+    flex-direction: column;
+}
