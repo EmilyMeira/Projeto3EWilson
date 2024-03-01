@@ -38,4 +38,6 @@ body{
     color: var(--cor-de-icone1);
     display: flex;
     justify-content: center;
+    width: 100%;
+    border-bottom: 4px solid var(--cor-de-icone1);
 }
