@@ -36,4 +36,6 @@ body{
     font-family: "Dancing Script",sans-serif;
     background-color: var(--cor-de-icone1);
     color: var(--cor-de-icone1);
+    display: flex;
+    justify-content: center;
 }
