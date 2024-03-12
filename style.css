@@ -42,6 +42,7 @@ body{
     width: 100%;
     border-bottom: 4px solid var(--cor-de-icone1);
     border-left: 2px solid var(--cor-de-icone1);
+    border-right: 2px solid var(--cor-de-icone1);
     border-top: none;
 }
 .botao:first-child{
