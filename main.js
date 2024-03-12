@@ -5,6 +5,6 @@ for( let i = 0 < botoes.length; j++){
     for(let j=0; j< botoes.length; j++){
         botes [j].classlist.remove("ativo");
     }
-    botes[i].classlist.add("ativo");
+    botes[i].classlist.add ("ativo");
   }
 }
