@@ -3,8 +3,8 @@ const botoes=document.querySelectorAll(".botao");
 for(let i = 0; i < botoes.length; i++){
   botoes [i].onclick = function(){
     for(let j=0; j< botoes.length; j++){
-        botoes [j].classlist.remove("ativo");
+        botoes [j].classList.remove("ativo");
     }
-    botes[i].classlist.add ("ativo");
+    botes[i].classList.add ("ativo");
   }
 }
