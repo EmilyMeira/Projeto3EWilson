@@ -13,7 +13,7 @@
 body{
     background-color: var(--cor-de-fundo);
     color: var(--cor-de-título);
-    font-family: 'Covered+By+Your+Grace&family=Crimson+Text', sans-serif;
+    font-family: 'Embed code', sans-serif;
 }
 .conteudo-principal{
     display: flex;
