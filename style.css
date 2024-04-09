@@ -57,8 +57,8 @@ body{
 }
 .abas-textos{
     background-color: var(--cor-de-fundo);
-    padding: 50px;
-    border-radius: 0 0 50px 50px;
+    padding: 40px;
+    border-radius: 0 0 40px 40px;
 }
 .aba-conteudo.ativo{
     display: block;
@@ -67,7 +67,7 @@ body{
     display: none;
 }
 .aba-conteudo-titulo-principal{
-    font-size: 50px;
+    font-size: 30px;
     text-align:center;
 }
 .aba-conteudo-titulo-secundario{
