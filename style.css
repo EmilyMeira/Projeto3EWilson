@@ -33,7 +33,7 @@ body{
     color: var(--verde-dias);
 }
 .botao{
-    font-family: "Dancing Script",sans-serif;
+    font-family: "Birthstone",sans-serif;
     background-color: var(--cor-de-icone1);
     color: var(--branco);
     display: flex;
