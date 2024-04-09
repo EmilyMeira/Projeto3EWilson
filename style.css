@@ -27,7 +27,7 @@ body{
 .titulo-principal{
     text-align: left;
     width: 100%;
-    font-size: 32px;
+    font-size: 40px;
 }
 .titulo-principal span{
     color: var(--verde-dias);
@@ -67,7 +67,7 @@ body{
     display: none;
 }
 .aba-conteudo-titulo-principal{
-    font-size: 70px;
+    font-size: 50px;
     text-align:center;
 }
 .aba-conteudo-titulo-secundario{
