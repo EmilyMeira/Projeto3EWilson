@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 :root{
 --cor-de-fundo:rgba(0, 0, 0, 1);
 --cor-de-icone1:rgba(59, 109, 155, 0.6);
@@ -13,7 +13,7 @@
 body{
     background-color: var(--cor-de-fundo);
     color: var(--cor-de-título);
-    font-family: 'Playfair+Display', sans-serif;
+    font-family: 'Covered+By+Your+Grace&family=Crimson+Text', sans-serif;
 }
 .conteudo-principal{
     display: flex;
